@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋<br>It's me! Haitam ELKADIRI</h1>
+<h1 align="center">Hi there👋<br>I'm Haitam ELKADIRI</h1>
 <h3 align="center">A DevOps and Cloud Computing engineer from Morocco 🇲🇦</h3>
 
 - 💬 Ask me anything about **DevOps, SRE approach, Sys administration & automation tools**
@@ -25,7 +25,7 @@
   <img align="center" src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" alt="prometheus" width="40"/>
   <img align="center" src="https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000" alt="grafana" width="40"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40"/>
-  <br>
+  <br><br>
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/kubernetes/kubernetes/refs/heads/master/logo/logo.svg" alt="kubernetes" width="40"/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" alt="openshift" width="40"/>
