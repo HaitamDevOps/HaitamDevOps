@@ -11,7 +11,7 @@
 
 <h4 align="left">You can also connect with me at <a href="https://linkedin.com/in/elkadiri-haitam" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="elkadiri-haitam" height="30"/></a></h4>
 
-<h4 align="left" style="border-bottom: solid red;">Languages and Tools</h4>
+<h3 align="left" style="border-bottom: solid red;">Languages and Tools</h3>
 <p align="center">
   <img align="center" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="40"/>
   <img align="center" src="https://img.icons8.com/?size=100&id=81727&format=png&color=000000" alt="azure" width="40"/>
