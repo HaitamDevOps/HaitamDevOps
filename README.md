@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋<br>I'm Haitam ELKADIRI</h1>
 <h3 align="center">A DevOps and Cloud Computing engineer from Morocco 🇲🇦</h3>
 
-- 💬 Ask me anything about **DevOps, SRE approach, Sys administration & automation tools**
+💬 Ask me anything about **DevOps, SRE approach, Sys administration & automation tools**
 
-- 🔭 Currently, I'm working on [BookReviewer project](https://github.com/HaitamDevOps/bookreviewer)
+🔭 Currently, I'm working on [BookReviewer project](https://github.com/HaitamDevOps/bookreviewer)
 
-- 📝 I regularly write articles on [DEV forum](https://dev.to/haitam_elkadiri)
+📝 I regularly write articles on [DEV forum](https://dev.to/haitam_elkadiri)
 
-- 📫 Reach me at **elkadirihaitam1@gmail.com**
+📫 Reach me at **elkadirihaitam1@gmail.com**
 
 <h4 align="left">You can also connect with me at <a href="https://linkedin.com/in/elkadiri-haitam" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="elkadiri-haitam" height="30"/></a></h4>
 
